@@ -3,8 +3,6 @@
 import { useState, useRef, useEffect, ChangeEvent } from "react";
 import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";
-import { FaS } from "react-icons/fa6";
-import { Target } from "lucide-react";
 
 
 export default function CountDown (){
